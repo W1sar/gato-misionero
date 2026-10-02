@@ -13,4 +13,4 @@ Abrí `index.html` en tu navegador. Controles: dedo, mouse o flechas ← →.
 - Eventos de puntero y teclado
 - Diseño responsive
 
-Hecho por Ángel Antonio Riquelme, Posadas, Misiones.
+Hecho por Angel Antonio Riquelme, Posadas, Misiones.
